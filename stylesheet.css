@@ -1,0 +1,52 @@
+*{
+    font-family: 'Urbanist', sans-serif;
+}
+.hero {
+    background-color: #F2F5F9;
+}
+
+.hero-button {
+    background-color: #305AC6;
+    color: white;
+    border-radius: 15%;
+}
+
+.temple-heading{
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+    text-align: center;
+}
+
+.events{
+    background-color: #F2F5F9;
+    margin-top: 20px;
+}
+
+.events-heading{
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.temples{
+    background-color: #F2F5F9;
+    margin-top: 20px;
+}
+
+.card-temple{
+    height: 200px;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.news{
+    margin-top: 20px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
